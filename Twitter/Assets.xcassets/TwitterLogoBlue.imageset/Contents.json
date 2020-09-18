@@ -2,12 +2,10 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Twitter_Logo_Blue.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Twitter_Logo_Blue-1.png",
       "scale" : "2x"
     },
     {
